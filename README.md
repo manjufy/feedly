@@ -26,4 +26,12 @@ Feeds
   
   https://articles.microservices.com/feed
   
+  https://articles.microservices.com/
+  
+  https://www.microservices.com/talks/feed/
+  
+  https://medium.com/feed/microservices-in-practice
+  
+  https://www.youtube.com/channel/UCeRQROVrFDzKNq4e02ko4cw
+  
   
