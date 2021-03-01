@@ -8,6 +8,10 @@ Data is the most valuable asset in this moderan era, and we consume so much of i
 
 ## Features
 
+- Aggregate feeds from varous resources
+- Able to Bookmark and store my favourte feeds (resource) and topics (tags)
+- Search feed through tags
+
 ## Whats Next
 
 ## Contributing
