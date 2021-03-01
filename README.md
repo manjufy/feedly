@@ -11,6 +11,7 @@ Data is the most valuable asset in this moderan era, and we consume so much of i
 - Aggregate feeds from varous resources
 - Able to Bookmark and store my favourte feeds (resource) and topics (tags)
 - Search feed through tags
+- Recommendations for new users (Onboarding)
 
 ## Whats Next
 
@@ -37,5 +38,9 @@ Feeds
   https://medium.com/feed/microservices-in-practice
   
   https://www.youtube.com/channel/UCeRQROVrFDzKNq4e02ko4cw
+  
+  https://feedly.com/v3/recommendations/topics/programming?locale=en&ck=1614611271018&ct=feedly.desktop&cv=31.0.1121
+  
+  https://feedly.com/v3/search/discovery?query=programming&count=8&locale=en&publicationBucketsOnly=false&ck=1614611271126&ct=feedly.desktop&cv=31.0.1121
   
   
